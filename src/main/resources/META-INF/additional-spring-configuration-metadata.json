@@ -1,0 +1,24 @@
+{
+	"properties": [
+		{
+			"name": "NotEmpty.bookBean.bookAuthor",
+			"type": "java.lang.String",
+			"description": "A description for 'NotEmpty.bookBean.bookAuthor'"
+		},
+		{
+			"name": "NotEmpty.bookBean.bookCode",
+			"type": "java.lang.String",
+			"description": "A description for 'NotEmpty.bookBean.bookCode'"
+		},
+		{
+			"name": "NotEmpty.bookBean.bookPrice",
+			"type": "java.lang.String",
+			"description": "A description for 'NotEmpty.bookBean.bookPrice'"
+		},
+		{
+			"name": "NotEmpty.bookBean.bookTitle",
+			"type": "java.lang.String",
+			"description": "A description for 'NotEmpty.bookBean.bookTitle'"
+		}
+	]
+}
